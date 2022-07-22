@@ -1,0 +1,17 @@
+.menuitem:hover{
+    -fx-border-color: #2E3348;
+    -fx-border-width: 0px 0px 3px 0px;
+}
+.sidebaritem:hover{
+    -fx-background-color: #146886;
+    -fx-border-color:  #FFE4C4;
+    -fx-border-width: 0px 0px 0px 3px;
+}
+.jfx-snackbar-content{
+    -fx-background-color: #ff1c03;
+}
+.jfx-snackbar-toast{
+    -fx-alignment: center;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 20px;
+}
